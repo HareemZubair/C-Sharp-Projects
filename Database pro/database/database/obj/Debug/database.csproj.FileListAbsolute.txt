@@ -1,0 +1,42 @@
+c:\users\tc\documents\visual studio 2013\Projects\database\database\bin\Debug\database.exe.config
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Form1.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Properties.Resources.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.csproj.GenerateResource.Cache
+c:\users\tc\documents\visual studio 2013\Projects\database\database\bin\Debug\database.exe
+c:\users\tc\documents\visual studio 2013\Projects\database\database\bin\Debug\database.pdb
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.exe
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.pdb
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Form2.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Form3.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.User.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Admin.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Attendence.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Contact.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Courses.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Main.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.option.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Salary.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Session.resources
+c:\users\tc\documents\visual studio 2013\Projects\database\database\obj\Debug\database.Time.resources
+C:\Users\TC\Desktop\Database pro\database\database\bin\Debug\database.exe.config
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.exe
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.pdb
+C:\Users\TC\Desktop\Database pro\database\database\bin\Debug\database.exe
+C:\Users\TC\Desktop\Database pro\database\database\bin\Debug\database.pdb
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Admin.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Courses.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.crystal.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.FacSal.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Form1.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Form2.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Form3.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Main.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.option.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Salary.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Session.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.Time.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.User.resources
+C:\Users\TC\Desktop\Database pro\database\database\obj\Debug\database.csproj.GenerateResource.Cache

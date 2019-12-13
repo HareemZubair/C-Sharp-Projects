@@ -1,0 +1,21 @@
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.dll.config
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.dll
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.pdb
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.csprojResolveAssemblyReference.cache
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.dll
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.pdb
+C:\Users\TC\Desktop\myweb\myweb\bin\myweb.dll.config
+C:\Users\TC\Desktop\myweb\myweb\bin\myweb.dll
+C:\Users\TC\Desktop\myweb\myweb\bin\myweb.pdb
+C:\Users\TC\Desktop\myweb\myweb\obj\Debug\myweb.csprojResolveAssemblyReference.cache
+C:\Users\TC\Desktop\myweb\myweb\obj\Debug\myweb.dll
+C:\Users\TC\Desktop\myweb\myweb\obj\Debug\myweb.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\myweb\myweb\bin\myweb.dll
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\myweb\myweb\bin\myweb.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\myweb\myweb\obj\Debug\myweb.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\myweb\myweb\obj\Debug\myweb.dll
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\myweb\myweb\obj\Debug\myweb.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myapp\myweb\obj\Debug\myweb.csprojAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myapp\myweb\obj\Debug\myweb.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myapp\myweb\obj\Debug\myweb.dll
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myapp\myweb\obj\Debug\myweb.pdb

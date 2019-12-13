@@ -1,0 +1,24 @@
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+C:\Users\Techno City\Desktop\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+E:\HelloWorld\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+E:\HelloWorld\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+E:\HelloWorld\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
+E:\HelloWorld\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+E:\HelloWorld\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+E:\HelloWorld\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache
+F:\assignment\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+F:\assignment\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+F:\assignment\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
+F:\assignment\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+F:\assignment\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+F:\assignment\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache

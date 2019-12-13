@@ -1,0 +1,42 @@
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\bin\Debug\Food Corner.exe.config
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food Corner.exe
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food Corner.pdb
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\bin\Debug\Food Corner.exe
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\bin\Debug\Food Corner.pdb
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food Corner.csprojResolveAssemblyReference.cache
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food_Corner.frmlogin.resources
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food_Corner.order.resources
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food_Corner.Properties.Resources.resources
+C:\Users\Techno City\documents\visual studio 2013\Projects\Food Corner\obj\Debug\Food Corner.csproj.GenerateResource.Cache
+F:\assignment\Food Corner\bin\Debug\Food Corner.exe.config
+F:\assignment\Food Corner\obj\Debug\Food Corner.exe
+F:\assignment\Food Corner\obj\Debug\Food Corner.pdb
+F:\assignment\Food Corner\bin\Debug\Food Corner.exe
+F:\assignment\Food Corner\bin\Debug\Food Corner.pdb
+F:\assignment\Food Corner\obj\Debug\Food Corner.csprojResolveAssemblyReference.cache
+F:\assignment\Food Corner\obj\Debug\Food_Corner.frmlogin.resources
+F:\assignment\Food Corner\obj\Debug\Food_Corner.order.resources
+F:\assignment\Food Corner\obj\Debug\Food_Corner.Properties.Resources.resources
+F:\assignment\Food Corner\obj\Debug\Food Corner.csproj.GenerateResource.Cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\bin\Debug\Food Corner.exe.config
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\bin\Debug\Food Corner.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\bin\Debug\Food Corner.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food Corner.csprojAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food_Corner.frmlogin.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food_Corner.order.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food_Corner.Properties.Resources.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food Corner.csproj.GenerateResource.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food Corner.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food Corner.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Food Corner\obj\Debug\Food Corner.pdb
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\bin\Debug\Food Corner.exe.config
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\bin\Debug\Food Corner.exe
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\bin\Debug\Food Corner.pdb
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food Corner.csprojAssemblyReference.cache
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food_Corner.frmlogin.resources
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food_Corner.order.resources
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food_Corner.Properties.Resources.resources
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food Corner.csproj.GenerateResource.cache
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food Corner.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food Corner.exe
+C:\Users\haree\Documents\Computer Collegiate\assignment\Food Corner\obj\Debug\Food Corner.pdb

@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="myweb.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="style/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <form id="form1" runat="server">
+        <div id="container">
+        <div id="logo">
+            <div id="log">
+                <asp:ImageButton ID="ImageButton1" runat="server" Height="60px" ImageUrl="~/images/ub.PNG" Width="187px" />
+            </div>
+            <div id="search">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:ImageButton ID="ImageButton3" runat="server" Height="25px" ImageUrl="~/images/apple-touch-icon-192x192.png" Width="42px" />
+                <asp:ImageButton ID="ImageButton4" runat="server" Height="25px" ImageUrl="~/images/linkedin.jpg" Width="41px" />
+                <asp:ImageButton ID="ImageButton5" runat="server" Height="25px" ImageUrl="~/images/fb_icon_325x325.png" Width="43px" />
+&nbsp;<asp:ImageButton ID="ImageButton6" runat="server" Height="25px" ImageUrl="~/images/ubit.png" Width="174px" />
+                <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="White" Height="25px">Sign Up?</asp:LinkButton>
+            </div>
+        </div>
+         <div id="mappath">
+             <asp:SiteMapPath ID="SiteMapPath1" runat="server" ForeColor="White">
+             </asp:SiteMapPath>
+            </div>
+            <div id="header">
+                <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1" Height="40px" Orientation="Horizontal" StaticDisplayLevels="2" Width="100%">
+                    <Items>
+                        <asp:MenuItem Text="Home" Value="Home"></asp:MenuItem>
+                        <asp:MenuItem Text="About Library" Value="About Library"></asp:MenuItem>
+                        <asp:MenuItem Text="Book Search" Value="Book Search"></asp:MenuItem>
+                        <asp:MenuItem Text="Contact Us" Value="Contact Us"></asp:MenuItem>
+                        <asp:MenuItem Text="Feedback" Value="Feedback"></asp:MenuItem>
+                        <asp:MenuItem Text="Member Login" Value="Member Login"></asp:MenuItem>
+                        <asp:MenuItem Text="Admin Login" Value="Admin Login"></asp:MenuItem>
+                    </Items>
+                    <StaticMenuItemStyle Font-Bold="True" Font-Underline="True" ForeColor="White" HorizontalPadding="25px" VerticalPadding="6px" />
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+        <div id="slider"></div>
+        <div id="menu">
+            </div>
+        <div id="main"></div>
+        <div id="aside"></div>
+        <div id="link"></div>
+        <div id="updates"></div>
+        <div id="footer">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="Label1" runat="server" BorderColor="#999999" Font-Bold="True" Font-Italic="True" ForeColor="White" Text="Copyright@Dulzura2017" Width="20%"></asp:Label>
+            </div>
+        </div>
+    <div>
+       
+    </div>
+    </form>
+</body>
+</html>
+ 

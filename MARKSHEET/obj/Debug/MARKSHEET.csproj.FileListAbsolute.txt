@@ -1,0 +1,31 @@
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\bin\Debug\MARKSHEET.exe.config
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\obj\Debug\MARKSHEET.csprojResolveAssemblyReference.cache
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\bin\Debug\MARKSHEET.exe
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\bin\Debug\MARKSHEET.pdb
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\obj\Debug\MARKSHEET.exe
+c:\users\techno city\documents\visual studio 2013\Projects\MARKSHEET\obj\Debug\MARKSHEET.pdb
+E:\HelloWorld\MARKSHEET\bin\Debug\MARKSHEET.exe.config
+E:\HelloWorld\MARKSHEET\obj\Debug\MARKSHEET.exe
+E:\HelloWorld\MARKSHEET\obj\Debug\MARKSHEET.pdb
+E:\HelloWorld\MARKSHEET\bin\Debug\MARKSHEET.exe
+E:\HelloWorld\MARKSHEET\bin\Debug\MARKSHEET.pdb
+E:\HelloWorld\MARKSHEET\obj\Debug\MARKSHEET.csprojResolveAssemblyReference.cache
+D:\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe.config
+D:\assignment\MARKSHEET\obj\Debug\MARKSHEET.exe
+D:\assignment\MARKSHEET\obj\Debug\MARKSHEET.pdb
+D:\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe
+D:\assignment\MARKSHEET\bin\Debug\MARKSHEET.pdb
+D:\assignment\MARKSHEET\obj\Debug\MARKSHEET.csprojResolveAssemblyReference.cache
+F:\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe.config
+F:\assignment\MARKSHEET\obj\Debug\MARKSHEET.exe
+F:\assignment\MARKSHEET\obj\Debug\MARKSHEET.pdb
+F:\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe
+F:\assignment\MARKSHEET\bin\Debug\MARKSHEET.pdb
+F:\assignment\MARKSHEET\obj\Debug\MARKSHEET.csprojResolveAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe.config
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\bin\Debug\MARKSHEET.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\bin\Debug\MARKSHEET.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\obj\Debug\MARKSHEET.csprojAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\obj\Debug\MARKSHEET.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\obj\Debug\MARKSHEET.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\MARKSHEET\obj\Debug\MARKSHEET.pdb

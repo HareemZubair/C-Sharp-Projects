@@ -1,0 +1,71 @@
+E:\C language\IMS\IMS\bin\Debug\IMS.exe.config
+E:\C language\IMS\IMS\bin\Debug\IMS.exe
+E:\C language\IMS\IMS\bin\Debug\IMS.pdb
+E:\C language\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+E:\C language\IMS\IMS\obj\Debug\IMS.Form1.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+E:\C language\IMS\IMS\obj\Debug\IMS.exe
+E:\C language\IMS\IMS\obj\Debug\IMS.pdb
+E:\C language\IMS\IMS\obj\Debug\IMS.admin.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.Faculty.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.main.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.student.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.user.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.courses.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.fees.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.salary.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.salfa.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.scheduling.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.session.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.shift.resources
+E:\C language\IMS\IMS\obj\Debug\IMS.Checkout.resources
+C:\Users\TC\Desktop\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.pdb
+C:\Users\TC\Desktop\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\TC\Desktop\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.admin.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.Checkout.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.courses.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.Faculty.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.fees.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.Form1.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.Form2.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.main.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.salary.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.salfa.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.scheduling.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.session.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.shift.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.student.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.user.resources
+C:\Users\TC\Desktop\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.admin.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.Checkout.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.courses.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.Faculty.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.fees.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.Form1.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.Form2.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.main.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.salary.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.salfa.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.scheduling.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.session.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.shift.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.student.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.user.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.Cache
+F:\assignment\IMS\IMS\bin\Debug\IMS.exe.config
+F:\assignment\IMS\IMS\obj\Debug\IMS.exe
+F:\assignment\IMS\IMS\obj\Debug\IMS.pdb

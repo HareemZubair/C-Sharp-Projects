@@ -1,0 +1,56 @@
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe.config
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.pdb
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Admin.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Courses.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Main.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Properties.Resources.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Time.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.User.resources
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csproj.GenerateResource.Cache
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.exe
+c:\users\tc\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.pdb
+C:\Users\TC\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Faculty.resources
+C:\Users\TC\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csprojResolveAssemblyReference.cache
+C:\Users\TC\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Student.resources
+C:\Users\TC\documents\visual studio 2013\Projects\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Login.resources
+C:\Users\TC\Desktop\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe.config
+C:\Users\TC\Desktop\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.exe
+C:\Users\TC\Desktop\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.pdb
+F:\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe.config
+F:\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.exe
+F:\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.pdb
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe.config
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.pdb
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csprojResolveAssemblyReference.cache
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Admin.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Courses.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Faculty.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Login.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Main.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Properties.Resources.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Student.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Time.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.User.resources
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csproj.GenerateResource.Cache
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csproj.CoreCompileInputs.cache
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.exe
+E:\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe.config
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\bin\Debug\Computer Collegiate.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csprojAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Admin.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Courses.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Faculty.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Login.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Main.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Properties.Resources.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Student.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.Time.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer_Collegiate.User.resources
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csproj.GenerateResource.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.exe
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\Computer Collegiate\Computer Collegiate\obj\Debug\Computer Collegiate.pdb

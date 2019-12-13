@@ -1,0 +1,13 @@
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.dll.config
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.dll
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\bin\myweb.pdb
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.csprojResolveAssemblyReference.cache
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.dll
+c:\users\tc\documents\visual studio 2013\Projects\myweb\myweb\obj\Debug\myweb.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\bin\myweb.dll.config
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\bin\myweb.dll
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\bin\myweb.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\obj\Debug\myweb.csprojAssemblyReference.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\obj\Debug\myweb.csproj.CoreCompileInputs.cache
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\obj\Debug\myweb.dll
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\myweb\myweb\obj\Debug\myweb.pdb

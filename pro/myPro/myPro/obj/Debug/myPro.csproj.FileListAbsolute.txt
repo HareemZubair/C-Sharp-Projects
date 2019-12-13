@@ -1,0 +1,121 @@
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\bin\Debug\myPro.exe.config
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\bin\Debug\myPro.exe
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\bin\Debug\myPro.pdb
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.Form1.resources
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.frmMain.resources
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.exe
+c:\users\administrator.administrator30\documents\visual studio 2012\Projects\myPro\myPro\obj\Debug\myPro.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\bin\Debug\myPro.exe.config
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.exe
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\bin\Debug\myPro.exe
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\bin\Debug\myPro.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\Users\Administrator.ADMINISTRATOR30\Documents\Visual Studio 2012\Projects\34\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\35\34\myPro\myPro\bin\Debug\myPro.exe.config
+C:\35\34\myPro\myPro\obj\Debug\myPro.exe
+C:\35\34\myPro\myPro\obj\Debug\myPro.pdb
+C:\35\34\myPro\myPro\bin\Debug\myPro.exe
+C:\35\34\myPro\myPro\bin\Debug\myPro.pdb
+C:\35\34\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\35\34\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+C:\34\myPro\myPro\bin\Debug\myPro.exe.config
+C:\34\myPro\myPro\obj\Debug\myPro.exe
+C:\34\myPro\myPro\obj\Debug\myPro.pdb
+C:\34\myPro\myPro\bin\Debug\myPro.exe
+C:\34\myPro\myPro\bin\Debug\myPro.pdb
+C:\34\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\34\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\34\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\34\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\34\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\34\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\34\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\34\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+C:\34\myPro\myPro\obj\Debug\myPro.FrmFaculty.resources
+C:\34\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\bin\Debug\myPro.exe.config
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.exe
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\bin\Debug\myPro.exe
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\bin\Debug\myPro.pdb
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.FrmFaculty.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\Users\Administrator.ADMINISTRATOR30\Desktop\34\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+C:\30_JAN_2\myPro\myPro\bin\Debug\myPro.exe.config
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.exe
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.pdb
+C:\30_JAN_2\myPro\myPro\bin\Debug\myPro.exe
+C:\30_JAN_2\myPro\myPro\bin\Debug\myPro.pdb
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.FrmStud.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.FrmFaculty.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+C:\30_JAN_2\myPro\myPro\obj\Debug\myPro.Frmfeeinfo.resources
+C:\pro\myPro\myPro\bin\Debug\myPro.exe.config
+C:\pro\myPro\myPro\obj\Debug\myPro.exe
+C:\pro\myPro\myPro\obj\Debug\myPro.pdb
+C:\pro\myPro\myPro\bin\Debug\myPro.exe
+C:\pro\myPro\myPro\bin\Debug\myPro.pdb
+C:\pro\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+C:\pro\myPro\myPro\obj\Debug\myPro.Form1.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.Frmfeeinfo.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.FrmStud.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.FrmFaculty.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.frmMain.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.frmTime.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+C:\pro\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache
+F:\lab work\pro\myPro\myPro\bin\Debug\myPro.exe.config
+F:\lab work\pro\myPro\myPro\obj\Debug\myPro.exe
+F:\lab work\pro\myPro\myPro\obj\Debug\myPro.pdb
+F:\assignment\pro\myPro\myPro\bin\Debug\myPro.exe.config
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.exe
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.pdb
+F:\assignment\pro\myPro\myPro\bin\Debug\myPro.exe
+F:\assignment\pro\myPro\myPro\bin\Debug\myPro.pdb
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.csprojResolveAssemblyReference.cache
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.Form1.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.Frmfeeinfo.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.FrmStud.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.FrmFaculty.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.frmAdmin.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.frmCourses.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.frmMain.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.frmTime.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.frmUsers.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.Properties.Resources.resources
+F:\assignment\pro\myPro\myPro\obj\Debug\myPro.csproj.GenerateResource.Cache

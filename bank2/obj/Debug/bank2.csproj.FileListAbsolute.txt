@@ -1,0 +1,79 @@
+D:\C#\Programming\GUI\bank2\bank2\bin\Debug\bank2.exe.config
+D:\C#\Programming\GUI\bank2\bank2\bin\Debug\bank2.exe
+D:\C#\Programming\GUI\bank2\bank2\bin\Debug\bank2.pdb
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.admin.resources
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.Form1.resources
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.Properties.Resources.resources
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.user.resources
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.exe
+D:\C#\Programming\GUI\bank2\bank2\obj\Debug\bank2.pdb
+G:\ \bank2\bank2\bin\Debug\bank2.exe.config
+G:\ \bank2\bank2\obj\Debug\bank2.exe
+G:\ \bank2\bank2\obj\Debug\bank2.pdb
+G:\ \bank2\bank2\bin\Debug\bank2.exe
+G:\ \bank2\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+G:\ \bank2\bank2\obj\Debug\bank2.admin.resources
+G:\ \bank2\bank2\obj\Debug\bank2.Form1.resources
+G:\ \bank2\bank2\obj\Debug\bank2.Properties.Resources.resources
+G:\ \bank2\bank2\obj\Debug\bank2.user.resources
+G:\ \bank2\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+G:\ \bank2\bank2\bin\Debug\bank2.pdb
+F:\ \bank2\bank2\bin\Debug\bank2.exe.config
+F:\ \bank2\bank2\obj\Debug\bank2.exe
+F:\ \bank2\bank2\obj\Debug\bank2.pdb
+F:\ \bank2\bank2\bin\Debug\bank2.exe
+F:\ \bank2\bank2\bin\Debug\bank2.pdb
+F:\ \bank2\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+F:\ \bank2\bank2\obj\Debug\bank2.admin.resources
+F:\ \bank2\bank2\obj\Debug\bank2.Form1.resources
+F:\ \bank2\bank2\obj\Debug\bank2.Properties.Resources.resources
+F:\ \bank2\bank2\obj\Debug\bank2.user.resources
+F:\ \bank2\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+C:\Users\Musab\Desktop\bank2\bank2\bin\Debug\bank2.exe.config
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.exe
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.pdb
+C:\Users\Musab\Desktop\bank2\bank2\bin\Debug\bank2.exe
+C:\Users\Musab\Desktop\bank2\bank2\bin\Debug\bank2.pdb
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.admin.resources
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.Form1.resources
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.Properties.Resources.resources
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.user.resources
+C:\Users\Musab\Desktop\bank2\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+E:\C#\Bank Management System\bank2\bin\Debug\bank2.exe.config
+E:\C#\Bank Management System\bank2\obj\Debug\bank2.exe
+E:\C#\Bank Management System\bank2\obj\Debug\bank2.pdb
+F:\bank2\bin\Debug\bank2.exe.config
+F:\bank2\obj\Debug\bank2.exe
+F:\bank2\obj\Debug\bank2.pdb
+F:\bank2\bin\Debug\bank2.exe
+F:\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+F:\bank2\obj\Debug\bank2.admin.resources
+F:\bank2\obj\Debug\bank2.Form1.resources
+F:\bank2\obj\Debug\bank2.Properties.Resources.resources
+F:\bank2\obj\Debug\bank2.user.resources
+F:\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+C:\Users\walee\Desktop\bank2\bin\Debug\bank2.exe.config
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.exe
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.pdb
+C:\Users\walee\Desktop\bank2\bin\Debug\bank2.exe
+C:\Users\walee\Desktop\bank2\bin\Debug\bank2.pdb
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.admin.resources
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.Form1.resources
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.Properties.Resources.resources
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.user.resources
+C:\Users\walee\Desktop\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache
+C:\Users\Techno City\Desktop\bank2\bin\Debug\bank2.exe.config
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.exe
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.pdb
+C:\Users\Techno City\Desktop\bank2\bin\Debug\bank2.exe
+C:\Users\Techno City\Desktop\bank2\bin\Debug\bank2.pdb
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.csprojResolveAssemblyReference.cache
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.admin.resources
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.Form1.resources
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.Properties.Resources.resources
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.user.resources
+C:\Users\Techno City\Desktop\bank2\obj\Debug\bank2.csproj.GenerateResource.Cache

@@ -1,0 +1,88 @@
+﻿#Container {
+    margin: 0 auto;
+    padding: 0;
+    height: 690px;
+    width: 100%;
+    background-color: white;
+}
+
+#news {
+    margin:0;
+    padding:5px 0 0 0;
+    height:30px;
+    width:100%;
+    background-color:darkgreen;
+    color:red;
+}
+#slider {
+    margin:0;
+    padding:0;
+    height:90px;
+    width:100%;
+    background-color:white;
+}
+#navigation {
+    margin:0;
+    padding:0;
+    height:40px;
+    width:100%;
+    background-color:green;
+}
+#mappath {
+    margin:0;
+    padding:5px 0 0 0;
+    height:25px;
+    width:100%;
+    background-color:lightgreen;
+}
+#main {
+     margin:0;
+    padding:0;
+    height:500px;
+    width:70%;
+    background-color:white;
+    overflow:scroll;
+    float:right;
+}
+#aside {
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    width: 30%;
+    background-color: silver;
+    float: left;
+}
+#aside .inner-aside {
+    margin:0;
+    padding:0;
+    height:250px;
+    width:100%;
+    background-color:skyblue;
+}
+#contact {
+    margin:0;
+    padding:0;
+    height:40px;
+    width:100%;
+    background-color:lightgreen;
+}
+#cr {
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    width: 100%;
+    /*background-color: gray;*/
+    color:white;
+    text-align:center;
+    background-color: darkgreen;
+    clear:both;
+}
+#search {
+    margin: 0 1% 0 0;
+    padding: 0;
+    height: 20px;
+    width: 35%;
+    background-color:green;
+    color:white;
+    float: left;
+}

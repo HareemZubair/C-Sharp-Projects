@@ -1,0 +1,145 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="myweb.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <link href="style/StyleSheet1.css" rel="stylesheet" />
+    <link href="style/StyleSheet2.css" rel="stylesheet" />
+     <!-- Insert to your webpage before the </head> -->
+    <script src="sliderengine/jquery.js"></script>
+    <script src="sliderengine/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
+    <script src="sliderengine/initslider-1.js"></script>
+    <!-- End of head section HTML codes -->
+    
+    
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <form id="form1" runat="server">
+        <div id="container">
+        <div id="logo">
+            <div id="log">
+                <asp:ImageButton ID="ImageButton1" runat="server" Height="60px" ImageUrl="~/images/ub.PNG" Width="187px" />
+            </div>
+            <div id="search">&nbsp;<asp:ImageButton ID="ImageButton3" runat="server" Height="25px" ImageUrl="~/images/apple-touch-icon-192x192.png" Width="42px" />
+                <asp:ImageButton ID="ImageButton4" runat="server" Height="25px" ImageUrl="~/images/linkedin.jpg" Width="41px" />
+                <asp:ImageButton ID="ImageButton5" runat="server" Height="25px" ImageUrl="~/images/fb_icon_325x325.png" Width="43px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="White" Height="25px">Sign Up?</asp:LinkButton>
+            </div>
+        </div>
+         <div id="mappath">
+             <asp:SiteMapPath ID="SiteMapPath1" runat="server" ForeColor="White">
+             </asp:SiteMapPath>
+            </div>
+            <div id="header">
+                <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1" Height="40px" Orientation="Horizontal" StaticDisplayLevels="2" Width="100%">
+                    <Items>
+                        <asp:MenuItem Text="Home" Value="Home"></asp:MenuItem>
+                        <asp:MenuItem Text="About Library" Value="About Library"></asp:MenuItem>
+                        <asp:MenuItem Text="Book Search" Value="Book Search"></asp:MenuItem>
+                        <asp:MenuItem Text="Contact Us" Value="Contact Us"></asp:MenuItem>
+                        <asp:MenuItem Text="Feedback" Value="Feedback"></asp:MenuItem>
+                        <asp:MenuItem Text="Member Login" Value="Member Login"></asp:MenuItem>
+                        <asp:MenuItem Text="Admin Login" Value="Admin Login"></asp:MenuItem>
+                    </Items>
+                    <StaticMenuItemStyle Font-Bold="True" Font-Underline="True" ForeColor="#FF9966" HorizontalPadding="25px" VerticalPadding="6px" />
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+        <div id="slider">
+            <div id="relative">
+                <div id="absolute">
+                    <!-- Insert to your webpage where you want to display the slider -->
+    <div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:900px;margin:0px auto 0px;">
+        <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+            <ul class="amazingslider-slides" style="display:none;">
+                <li><img src="images/image1.jpg" alt="UBIT Library"  title="UBIT Library" />
+                </li>
+                <li><img src="images/image2.jpg" alt="Educate Your Self"  title="Educate Your Self" />
+                </li>
+                <li><img src="images/image3.jpg" alt="Information"  title="Information" />
+                </li>
+                <li><img src="images/image4.jpg" alt="UBIT Education"  title="UBIT Education" />
+                </li>
+                <li><img src="images/image5.jpg" alt="UBIT Library"  title="UBIT Library" />
+                </li>
+                <li><img src="images/image6.jpg" alt="Speed Programing"  title="Speed Programing" />
+                </li>
+                <li><img src="images/image7.jpg" alt="All Book Available Here !!!
+Educate yourself with IT"  title="All Book Available Here !!!
+Educate yourself with IT" />
+                </li>
+                <li><img src="images/image8.jpg" alt="UBIT Proquest"  title="UBIT Proquest" />
+                </li>
+                <li><img src="images/image9.jpg" alt="Umaer Basha Institute of Information Technology"  title="Umaer Basha Institute of Information Technology" />
+                </li>
+                <li><img src="images/image10.jpg" alt="Library"  title="Library" />
+                </li>
+                <li><img src="images/image11.PNG" alt="UBIT Library"  title="UBIT Library" />
+                </li>
+                <li><img src="images/image12.png" alt="UBIT Media"  title="UBIT Media" />
+                </li>
+                <li><img src="images/image13.jpg" alt="Library"  title="Library" />
+                </li>
+                <li><img src="images/image14.jpg" alt="Information Technology"  title="Information Technology" />
+                </li>
+                <li><img src="images/image16.jpg" alt="Computer Sciences"  title="Computer Sciences" />
+                </li>
+                <li><img src="images/image17.jpg" alt="Computer Science is Life itself"  title="Computer Science is Life itself" data-texteffect="Blue box" />
+                </li>
+                <li><img src="images/image18.png" alt="UBIT Library"  title="UBIT Library" />
+                </li>
+            </ul>
+        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="jQuery Content Slider">jQuery Content Slider</a></div>
+        </div>
+    </div>
+    <!-- End of body section HTML codes -->
+    
+    
+                </div>
+            </div>
+        </div>
+        <div id="menu">
+            </div>
+        <div id="main">
+            <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+        </div>
+        <div id="aside">
+            <asp:AdRotator ID="AdRotator1" runat="server" AdvertisementFile="~/XMLFile1.xml" Height="100%" Width="100%" />
+            </div>
+        <div id="link"></div>
+        <div id="updates"></div>
+        <div id="footer">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="Label1" runat="server" BorderColor="#999999" Font-Bold="True" Font-Italic="True" ForeColor="White" Text="Copyright@Dulzura2017" Width="20%"></asp:Label>
+            </div>
+        </div>
+    <div>
+       
+    </div>
+    </form>
+</body>
+</html>
+ 

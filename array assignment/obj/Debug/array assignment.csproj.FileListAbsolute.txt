@@ -1,0 +1,12 @@
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\bin\Debug\array assignment.exe.config
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\bin\Debug\array assignment.exe
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\bin\Debug\array assignment.pdb
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\obj\Debug\array assignment.csprojResolveAssemblyReference.cache
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\obj\Debug\array assignment.exe
+c:\users\techno city\documents\visual studio 2013\Projects\array assignment\obj\Debug\array assignment.pdb
+F:\assignment\array assignment\bin\Debug\array assignment.exe.config
+F:\assignment\array assignment\obj\Debug\array assignment.exe
+F:\assignment\array assignment\obj\Debug\array assignment.pdb
+F:\assignment\array assignment\obj\Debug\array assignment.csprojResolveAssemblyReference.cache
+F:\assignment\array assignment\bin\Debug\array assignment.exe
+F:\assignment\array assignment\bin\Debug\array assignment.pdb

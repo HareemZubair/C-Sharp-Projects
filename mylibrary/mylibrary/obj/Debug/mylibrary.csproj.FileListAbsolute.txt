@@ -1,0 +1,16 @@
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\bin\mylibrary.dll.config
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\bin\mylibrary.dll
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\bin\mylibrary.pdb
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\obj\Debug\mylibrary.csprojResolveAssemblyReference.cache
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\obj\Debug\mylibrary.dll
+C:\Users\TC\Documents\Visual Studio 2013\Projects\mylibrary\mylibrary\obj\Debug\mylibrary.pdb
+C:\Users\TC\Desktop\mylibrary\mylibrary\bin\mylibrary.dll.config
+C:\Users\TC\Desktop\mylibrary\mylibrary\bin\mylibrary.dll
+C:\Users\TC\Desktop\mylibrary\mylibrary\bin\mylibrary.pdb
+C:\Users\TC\Desktop\mylibrary\mylibrary\obj\Debug\mylibrary.dll
+C:\Users\TC\Desktop\mylibrary\mylibrary\obj\Debug\mylibrary.pdb
+C:\Users\TC\Desktop\mylibrary\mylibrary\obj\Debug\mylibrary.csprojResolveAssemblyReference.cache
+E:\computer collegiate\assignment\mylibrary\mylibrary\obj\Debug\mylibrary.dll
+E:\computer collegiate\assignment\mylibrary\mylibrary\obj\Debug\mylibrary.pdb
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\mylibrary\mylibrary\obj\Debug\mylibrary.dll
+C:\Users\haree\Documents\BSSE\computer collegiate\assignment\mylibrary\mylibrary\obj\Debug\mylibrary.pdb
